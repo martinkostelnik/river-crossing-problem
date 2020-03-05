@@ -1,5 +1,6 @@
 check-syntax.sh
 proj2
+/*.vscode
 
 # Prerequisites
 *.d
